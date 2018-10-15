@@ -1,6 +1,8 @@
 # About
 
-This is a simple Node image which adds Docker and Git to the image in order to use Gitlab-CI. 
+A simple Node Docker image which adds Docker and Git to the image in order to use Gitlab-CI. 
+
+Docker Hub: https://hub.docker.com/r/bugkings/node-gitlabci/
 
 Example Gitlab CI Usage:
 
